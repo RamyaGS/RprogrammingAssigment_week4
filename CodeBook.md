@@ -1,5 +1,3 @@
-The data set can be downloaded by using the script download_for_run_analysis.R.
-The above script creates a new directory where the dataset is downloaded and set to the new directory.
 
 The following are performed  by `run_analysis.R` in that order:
 
