@@ -1,6 +1,8 @@
-Getting and Cleaning Data Course Project/ProgrammingAssignment_week4
+##Getting and Cleaning Data Course Project/ProgrammingAssignment_week4
 
-The dataset used is http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
+
+The dataset used is [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 This repository contains the following files-
 
